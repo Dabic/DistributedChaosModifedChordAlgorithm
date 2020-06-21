@@ -1,0 +1,12 @@
+18:38:02 - Status
+18:38:02 - Status X
+18:38:02 - Status X id
+18:38:02 - Invalid arguments for status command.
+18:38:02 - Starting
+18:38:02 - Starting X
+18:38:02 - Invalid arguments for start command.
+18:38:02 - Invalid arguments for result command.
+18:38:02 - result [X]
+18:38:02 - result [X, id]
+18:38:02 - Invalid arguments for result command.
+18:38:02 - quiting
